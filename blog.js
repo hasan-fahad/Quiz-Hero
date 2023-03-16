@@ -1,0 +1,1 @@
+window.open('blog.html', '_blank');
