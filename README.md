@@ -1,4 +1,4 @@
-# Quiz-Hero
+## Quiz-Hero
 
 Feature Use
 
